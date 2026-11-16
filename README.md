@@ -1,4 +1,4 @@
-# clicksum
+# clicksone
 
 A new Flutter project.
 
